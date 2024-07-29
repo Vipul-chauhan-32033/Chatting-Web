@@ -5,7 +5,7 @@ include_once "header.php";
 <body>
     <div class="wrapper">
         <section class="form login">
-            <header>Chat Boat</header>
+            <header>What's up Friend!</header>
             <form action="#">
                 <div class="error-txt" style="display:none"></div>
                 

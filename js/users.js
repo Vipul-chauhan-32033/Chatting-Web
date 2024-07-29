@@ -19,7 +19,7 @@ searchBar.onkeyup = () => {
         searchBar.classList.remove("active");
 
     }
-    //lets start Ajax
+    //lets start Ajax(Without Load The Page Data Can Be Changed!...)
     let xhr = new XMLHttpRequest();
 
     xhr.open("POST", "php/search.php", true);
