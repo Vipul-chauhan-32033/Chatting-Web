@@ -21,7 +21,7 @@ if (!isset($_SESSION['unique_id'])) {
 
                 ?>
                 <div class="content">
-                    <img src="php/images/<?php echo $row['img'] ?>" alt="">
+                    <img src="php/images/<?php echo $row['img'] ?>" alt="DP">
                     <div class="details">
                         <span>
                             <?php echo $row['fname'] . " " . $row['lname'] ?>
@@ -39,7 +39,7 @@ if (!isset($_SESSION['unique_id'])) {
                 <button><i class="fas fa-search"></i></button>
             </div>
             <div class="users-list">
-
+                <!-- List Out All The Users Who Are Login -->
 
             </div>
 

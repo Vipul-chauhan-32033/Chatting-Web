@@ -40,10 +40,8 @@ include_once "header.php";
         </section>
     </div>
 
-
     <script src="js/pass_show_hide.js"></script>
     <script src="js/signup.js"></script>
-
 </body>
 
 </html>
